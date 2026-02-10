@@ -9,7 +9,7 @@ import nltk
 nltk.download('stopwords')
 nltk.download('punkt_tab')
 
-#Ensures the "logs" directory exists
+#Ensures the "logs" directory exist
 log_dir = 'logs'
 os.makedirs(log_dir, exist_ok= True)
 
