@@ -81,7 +81,7 @@ Spam-Detection-MLPipeline/</br>
    Measures performance using accuracy, precision, recall, F1 score.
 
 5. **Model Save & Inference**  
-   Saves the best performing model for future use.
+   Saves the best performing model for future usage.
 
 ---
 
